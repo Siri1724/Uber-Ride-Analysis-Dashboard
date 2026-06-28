@@ -45,7 +45,7 @@ The dashboard was built to transform raw operational data into clear, interactiv
 
 ### Main Dashboard
 
-![Dashboard](Images/dashboard1.png)
+![Dashboard](Images/dashboard2.png)
 
 ---
 
@@ -83,7 +83,7 @@ The dashboard was created using an Uber rides dataset for learning and portfolio
 Aspiring Data Analyst
 
 LinkedIn:
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/sara-farouk1/)
 
 GitHub:
 https://github.com/Siri1724
