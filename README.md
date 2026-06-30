@@ -116,3 +116,7 @@ https://www.linkedin.com/in/sara-farouk1/
 
 GitHub:
 https://github.com/Siri1724
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
